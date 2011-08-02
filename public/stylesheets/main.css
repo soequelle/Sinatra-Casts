@@ -32,6 +32,11 @@ h3{
   color: #88aa99;
 }
 
+sub{
+  font-size: 8px;
+  color: #88aa99;
+}
+
 a{
   color: #88aa99;
   text-decoration: none;
@@ -42,7 +47,16 @@ hr{
   border-top: 1px solid #333333;
 }
 
+/* Utils */
+.right{
+  float: right;
+}
+
+/* Specific elements */
+
 #video{
+  max-width: 750px;
+  padding: 5px;
   margin: 10px 0px;
 }
 
@@ -51,4 +65,8 @@ hr{
   top: 0; 
   right: 0; 
   border: 0;
+}
+
+.twitter-follow-button{
+  width: 145px !important;
 }

@@ -1,26 +1,40 @@
 %html
   %head
-    %title Sinatra Casts => @MarioZaizar
+    %title Screencasts de desarrollo web en Ruby, utilizando Sinatra - Sinatra Casts
     %link{ :rel => 'stylesheet', :type => 'text/css', :href => '/stylesheets/main.css' }/
+    %script{ :type => "text/javascript", :src => "http://platform.twitter.com/widgets.js" }
   %body
     %a{ :href => "https://github.com/mariozaizar/Sinatra-Casts" }
       %img#forkme{ :alt => "Fork me on GitHub", :src => "https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" }
 
-    %h1 
-      %a{ :href => 'http://twitter.com/sinatracasts', :target => '_blank' } Sinatra Casts
-    %h2 
-      Screencasts de desarrollo web en Ruby, utilizando 
+    %a{ :href => 'http://twitter.com/sinatracasts', :target => '_blank' }
+      %h1
+        Sinatra Casts
+        %sub beta
+    %h2
+      Screencasts de desarrollo web en Ruby, utilizando
       %a{ :href => 'http://sinatrarb.com/' } Sinatra
     %p
-      %iframe#video{ :src => "http://player.vimeo.com/video/27184067?title=0&amp;byline=0&amp;portrait=0", 
-        :width => "700", :height => "500", :frameborder => "0" }
+      #video
+        %iframe{ :src => "http://player.vimeo.com/video/27184067?title=0&amp;byline=0&amp;portrait=0",
+          :width => "750", :height => "550", :frameborder => "0" }
+          %p
+            %a{ :href => "http://vimeo.com/27184067" } Sinatra Casts - 001
+            from
+            %a{ :href => "http://vimeo.com/user7973066" } Mario Zaizar
+            on
+            %a{ :href => "http://vimeo.com" } Vimeo
         %p
-          %a{ :href => "http://vimeo.com/27184067" } Sinatra Casts - 001
-          from
-          %a{ :href => "http://vimeo.com/user7973066" } Mario Zaizar
-          on
-          %a{ :href => "http://vimeo.com" } Vimeo
-    %p
-      %h3 001 ~ Introducci&oacute;n a Sinatra.
-      %a{ :href => 'http://twitter.com/sinatracasts', :target => '_blank' } @mariozaizar ~
-      %em Aug 2, 2011 1:00am
+          .right
+            %a.twitter-share-button{ :href => "http://twitter.com/share", :data => { :url => "http://screencasts.com",
+                :text => "Screencasts de desarrollo web en Ruby, utilizando Sinatra.",
+                :count => "none",
+                :via => "SinatraCasts",
+                :related => "MarioZaizar:with" }} Tweet
+            %a.twitter-follow-button{ :href => "http://twitter.com/SinatraCasts", :data => { :button => "grey",
+                :'show-count' => "false",
+                :'text-color' => "#FFFFFF",
+                :'link-color' => "#88aa99" }} @SinatraCasts
+
+          %h3 001 ~ Introducci&oacute;n a Sinatra.
+          %em Aug 2, 2011 1:00am
