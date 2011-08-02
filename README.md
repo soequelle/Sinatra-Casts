@@ -17,10 +17,8 @@
     cd Sinatra-Casts;
     # Now, RVM should install Ruby with an empty Gemset...
 
-    # Install bundler to manage gems
+    # Install bundler, and gems
     gem install bundler;
-
-    # Install all the project gems
     bundle install;
     
     # Start using it!
@@ -42,8 +40,12 @@
 
 ## About
 
-### Project page: <https://sinatracasts.com>
-Follow us on [Twitter!][twitter], or Like us on [Facebook!][facebook].
+### Project page: <http://sinatracasts.com>
+### Twitter: <http://twitter.com/sinatracasts>
+### Facebook: [http://www.facebook.com/pages/Sinatra-Casts](http://www.facebook.com/pages/Sinatra-Casts/250279334991994)
+
+About me, I'm Mario.
+Follow me on [Twitter!][twitter], or stalk me on [Facebook!][facebook].
 
 ### Thanks to
 
@@ -58,8 +60,8 @@ Follow us on [Twitter!][twitter], or Like us on [Facebook!][facebook].
 * <del>Marry Megan Fox.</del>
 
 [site]: https://sinatracasts.com
-[twitter]: http://twitter.com/sinatracasts
-[facebook]: http://www.facebook.com/pages/Sinatra-Casts/250279334991994
+[twitter]: http://twitter.com/mariozaizar
+[facebook]: http://facebook.com/mariozaizar 
 [amazon]: http://amzn.com/w/18ZQSVYATE5M1
 
 [ruby]: http://ruby-lang.org
