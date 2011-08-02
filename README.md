@@ -29,13 +29,12 @@
 ## Screenshoots
 
 ![screenshoot](http://github.com/mariozaizar/Sinatra-Casts/raw/master/public/images/screenshoot.png)
-[Link](http://screencasts.com)
 
 ## Links!
 
 ### Site: <http://sinatracasts.com>
 ### Twitter: <http://twitter.com/sinatracasts>
-### Facebook: [http://www.facebook.com/pages/Sinatra-Casts](http://www.facebook.com/pages/Sinatra-Casts/250279334991994)
+### Facebook: <http://www.facebook.com/pages/Sinatra-Casts/250279334991994>
 
 ## Contribute!
 
