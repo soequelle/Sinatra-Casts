@@ -1,0 +1,43 @@
+body{
+  background: url(/images/background.png) left bottom repeat-y #222;
+  font-family: Arial;
+  font-size: 0.8em;
+  color: #778888;
+  padding: 50px 5px 5px 350px;
+  margin: 0px;
+  border: 0px;
+  font-weight: normal;
+}
+
+h1, h2, h3, h4, h5, h6{
+  margin: 0px;
+}
+
+h1, h1 a{
+  padding-bottom:5px;
+  margin-bottom: 3px;
+  color: #FFF;
+  border-bottom: 1px solid #333;
+}
+
+h2, h2 a{
+  color: #aaaaaa;
+}
+
+h3{
+  color: #88aa99;
+}
+
+a{
+  color: #88aa99;
+  text-decoration: none;
+}
+
+hr{
+  border: 0px;
+  border-top: 1px solid #333333;
+}
+
+#video{
+  margin: 10px 0px;
+}
