@@ -1,4 +1,5 @@
 # [Sinatra Casts][site], screencasts de desarrollo web en Ruby.
+![logo](http://github.com/mariozaizar/Sinatra-Casts/raw/master/public/images/logo.png)
 
 ## Installation
 
@@ -10,37 +11,38 @@
 
 ```sh
     # Download the repo
-    cd ~;
+    cd;
     git clone https://github.com/mariozaizar/Sinatra-Casts.git;
     
     cd Sinatra-Casts;
-    # Now, RVM should bring the magic and install Ruby and an empty Gemset
+    # Now, RVM should install Ruby with an empty Gemset...
 
-		# Install bundler to manage gem depencies
+    # Install bundler to manage gems
     gem install bundler;
 
     # Install all the project gems
-		bundle install;
+    bundle install;
     
-		# Start using it!
-		ruby -rubygems sinatra-casts.rb;
-		open http://localhost:4567
+    # Start using it!
+    ruby -rubygems sinatra-casts.rb;
+    open http://localhost:4567
 ```
 
 ## Screenshoots
 
-![bash-1](http://github.com/mariozaizar/Sinatra-Casts/raw/master/public/images/screenshoot.png)
+![screenshoot](http://github.com/mariozaizar/Sinatra-Casts/raw/master/public/images/screenshoot.png)
 [Link](http://screencasts.com)
 
 ## Contribute
 
 * [Report bugs!](https://github.com/mariozaizar/Sinatra-Casts/issues?labels=Bugs)
 * [Suggest new goodies!](https://github.com/mariozaizar/Sinatra-Casts/issues?labels=Features)
+* [Help!](https://github.com/mariozaizar/Sinatra-Casts/issues?labels=Help)
 * _Buy me a beer ([or something better][amazon])_
 
 ## About
 
-### Project page: <https://github.com/mariozaizar/Sinatra-Casts>, and [help](https://github.com/mariozaizar/Sinatra-Casts/issues?labels=Help).
+### Project page: <https://sinatracasts.com>
 Follow us on [Twitter!][twitter], or Like us on [Facebook!][facebook].
 
 ### Thanks to
