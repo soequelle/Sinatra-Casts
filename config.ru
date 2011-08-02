@@ -1,2 +1,2 @@
-require './sinatracasts-site.rb'
+require './sinatracasts.rb'
 run Sinatra::Application
