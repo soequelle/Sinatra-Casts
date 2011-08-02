@@ -31,23 +31,25 @@
 ![screenshoot](http://github.com/mariozaizar/Sinatra-Casts/raw/master/public/images/screenshoot.png)
 [Link](http://screencasts.com)
 
-## Contribute
+## Links!
 
-* [Report bugs!](https://github.com/mariozaizar/Sinatra-Casts/issues?labels=Bugs)
-* [Suggest new goodies!](https://github.com/mariozaizar/Sinatra-Casts/issues?labels=Features)
-* [Help!](https://github.com/mariozaizar/Sinatra-Casts/issues?labels=Help)
-* _Buy me a beer ([or something better][amazon])_
-
-## About
-
-### Project page: <http://sinatracasts.com>
+### Site: <http://sinatracasts.com>
 ### Twitter: <http://twitter.com/sinatracasts>
 ### Facebook: [http://www.facebook.com/pages/Sinatra-Casts](http://www.facebook.com/pages/Sinatra-Casts/250279334991994)
 
-About me, I'm Mario.
+## Contribute!
+
+* [Report bugs!](https://github.com/mariozaizar/Sinatra-Casts/issues?labels=Bugs)
+* [Suggest new episodes!](https://github.com/mariozaizar/Sinatra-Casts/issues?labels=Features)
+* Get [help](https://github.com/mariozaizar/Sinatra-Casts/issues?labels=Help) and help others.
+* _Buy me a beer ([or something better][amazon])_
+
+## About me
+
+I'm Mario.
 Follow me on [Twitter!][twitter], or stalk me on [Facebook!][facebook].
 
-### Thanks to
+### Thanks to..
 
 [Ruby][ruby], [Sinatra][sinatra], [Rails][rails], [RailsCasts][railscasts] and many others.. 
 
