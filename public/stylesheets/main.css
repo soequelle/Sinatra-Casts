@@ -1,5 +1,9 @@
 body{
-  background: url(/images/background.png) left bottom repeat-y #222;
+  background-color: #222;
+  background-image: url(/images/background.png);
+  background-position: left bottom;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   font-family: Arial;
   font-size: 0.8em;
   color: #778888;
