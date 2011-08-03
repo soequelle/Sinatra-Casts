@@ -7,7 +7,7 @@ body{
   font-family: Arial;
   font-size: 0.8em;
   color: #778888;
-  padding: 50px 5px 5px 350px;
+  padding: 25px 5px 5px 380px;
   margin: 0px;
   border: 0px;
   font-weight: normal;
@@ -44,7 +44,7 @@ a{
 
 hr{
   border: 0px;
-  border-top: 1px solid #333333;
+  border-top: 1px solid #333;
 }
 
 /* Utils */
@@ -52,12 +52,20 @@ hr{
   float: right;
 }
 
+.left{
+  float: left;
+}
+
 /* Specific elements */
 
-#video{
-  max-width: 750px;
+#episode{
+  width: 855px;
   padding: 5px;
-  margin: 10px 0px;
+}
+
+#video{
+  border: 1px solid #333;
+  margin: 5px 0px;
 }
 
 #forkme{
@@ -69,4 +77,8 @@ hr{
 
 .twitter-follow-button{
   width: 145px !important;
+}
+
+.name{
+  font-weight: normal !important;
 }

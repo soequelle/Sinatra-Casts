@@ -7,17 +7,22 @@
     %a{ :href => "https://github.com/mariozaizar/Sinatra-Casts" }
       %img#forkme{ :alt => "Fork me on GitHub", :src => "https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" }
 
-    %a{ :href => 'http://twitter.com/sinatracasts', :target => '_blank' }
-      %h1
-        Sinatra Casts
-        %sub beta
-    %h2
-      Screencasts de desarrollo web en Ruby, utilizando
-      %a{ :href => 'http://sinatrarb.com/' } Sinatra
     %p
-      #video
-        %iframe{ :src => "http://player.vimeo.com/video/27184067?title=0&amp;byline=0&amp;portrait=0",
-          :width => "750", :height => "550", :frameborder => "0" }
+      %a{ :href => 'http://twitter.com/sinatracasts', :target => '_blank' }
+        %h1
+          Sinatra Casts
+          %sub beta
+      %h2
+        Screencasts de desarrollo web en Ruby, utilizando
+        %a{ :href => 'http://sinatrarb.com/' } Sinatra      
+
+    #episode
+      %p
+        %h3 001 ~ Introducci&oacute;n a Sinatra.
+        %em Aug 2, 2011 1:00am            
+      %p
+        %iframe#video{ :src => "http://player.vimeo.com/video/27184067?title=0&amp;byline=0&amp;portrait=0",
+          :width => "850", :height => "537", :frameborder => "0" }
           %p
             %a{ :href => "http://vimeo.com/27184067" } Sinatra Casts - 001
             from
@@ -25,6 +30,21 @@
             on
             %a{ :href => "http://vimeo.com" } Vimeo
         %p
+          %br
+          .left
+            %iframe{ :src => "http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FSinatra-Casts%2F250279334991994&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font=arial&amp;height=35",
+              :scrolling => "no",
+              :frameborder => "0",
+              :style => "border:none; overflow:hidden; width:450px; height:35px;", 
+              :allowTransparency => "true" }
+            / 
+              Ugly
+              %iframe{ :src => "http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FSinatra-Casts%2F250279334991994&amp;width=245&amp;colorscheme=dark&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true&amp;height=62", 
+                 :scrolling => "no", 
+                 :frameborder => "0", 
+                 :style => "border:none; overflow:hidden; width:245px; height:62px;", 
+                 :allowTransparency => "true" }
+                
           .right
             %a.twitter-share-button{ :href => "http://twitter.com/share", :data => { :url => "http://screencasts.com",
                 :text => "Screencasts de desarrollo web en Ruby, utilizando Sinatra.",
@@ -35,6 +55,3 @@
                 :'show-count' => "false",
                 :'text-color' => "#FFFFFF",
                 :'link-color' => "#88aa99" }} @SinatraCasts
-
-          %h3 001 ~ Introducci&oacute;n a Sinatra.
-          %em Aug 2, 2011 1:00am
