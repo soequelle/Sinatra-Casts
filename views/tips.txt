@@ -1,0 +1,31 @@
+  
+
+Como apagar el monitor y teclado sin pasar a Sleep mode. Ctrl + Shift + Eject
+
+MongoHub: GUI para administrar bases de datos Mongo http://t.co/5vmhroP
+
+How to restore a deleted file in GIT ? => git checkout SHA1-BEFORE-DELETE path/to/file.jpg
+
+If your GIT asks for user/password everytime doing pull/push/fetch probably you're using your remote with https, or without git@git
+
+Textmate tip: How to show all hidden files in the Project window http://bit.ly/n1qyO2
+
+Essential TextMate Shortcuts, Tips and Techniques http://t.co/Hx5KT3w
+
+Presentaciones y videos del pasado #RailsConf 2011, aqui: http://oreil.ly/iYq7zh y aquí http://bit.ly/AWG1U
+
+Configuring an iPhone Web App With Meta Tags http://goo.gl/p5HG9
+
+MongoHub is a native mac GUI application for mongodb. http://t.co/5vmhroP
+
+Finding unused CSS in Rails. http://railscasts.com/episodes/180-finding-unused-css
+
+http://t.co/wkrEXzO
+
+Problemas para instalar usar bundler con rvm en Linux? http://bit.ly/lmXLTC
+
+Don't waste 3 days of your life. => How to enable HTML5 tags in IExplorer < 9 http://bit.ly/TvrJZ
+
+New Mobile Safari stuff in iOS5 http://goo.gl/zqkGO 
+
+jQuery Mobile Smartphone UI elements, image and layout file http://bit.ly/hLyaog and http://bit.ly/ebax9d
